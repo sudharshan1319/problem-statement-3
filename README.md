@@ -17,3 +17,4 @@ The model must be able to generalize to new data, meaning that it should be able
 Potential Applications:
 This model could be used to help astronomers identify stars in large datasets of astronomical images.
 It could also be used to study the evolution of stars by tracking their type over time.
+Link to the dataset: https://github.com/DespCAP/APV_2023/raw/main/star_classification.csv 
