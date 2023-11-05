@@ -1,4 +1,3 @@
-problem-statement-3
 Problem Statement:
 Predict whether an object is a star or not, and if it is a star, classify its type, using a CSV file obtained from Sloan Digital Sky Survey (SDSS) photometric data,
 
